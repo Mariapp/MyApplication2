@@ -14,5 +14,11 @@ public class MainActivity extends AppCompatActivity {
         String nombre= "María";
         boolean flag = false;
         String nombre= "emevala37@gmail.com"; 
+        int edad= 24;
+        int altura= 160;
+        
+        
+        
+        
     }
 }
