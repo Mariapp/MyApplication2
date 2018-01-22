@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int edad =3;
+        int edad =2;
         String nombre= "María";
         boolean flag = false;
     }
