@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         int edad =3;
         String nombre= "María";
-        boolean flag = false
+        boolean flag = false;
     }
 }
